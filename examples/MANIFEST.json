@@ -1,0 +1,68 @@
+{
+  "fetchedAt": "2026-10-09T14:59:07.787Z",
+  "files": [
+    {
+      "url": "https://downloads.tatoeba.org/exports/per_language/cmn/cmn_sentences_detailed.tsv.bz2",
+      "name": "cmn_sentences_detailed.tsv.bz2",
+      "bytes": 1724772,
+      "lastModified": "Sat, 03 Oct 2026 06:29:49 GMT",
+      "sha256": "934fdfad76366c1089d8aa4359d0cb57c03950375da8ab265ecb7bf5649ca4ba"
+    },
+    {
+      "url": "https://downloads.tatoeba.org/exports/per_language/cmn/cmn_transcriptions.tsv.bz2",
+      "name": "cmn_transcriptions.tsv.bz2",
+      "bytes": 2636595,
+      "lastModified": "Sat, 03 Oct 2026 06:31:10 GMT",
+      "sha256": "8c4ee7acafdf94adb7ac3fcd3003de34bf7a0f364add8ed06d3644b28463f35c"
+    },
+    {
+      "url": "https://downloads.tatoeba.org/exports/per_language/cmn/cmn_sentences_CC0.tsv.bz2",
+      "name": "cmn_sentences_CC0.tsv.bz2",
+      "bytes": 102,
+      "lastModified": "Sat, 03 Oct 2026 06:31:09 GMT",
+      "sha256": "72c6ac699497cbc9b75f6c021ef16dfaa91ab760fbb407217902b6b5388401c0"
+    },
+    {
+      "url": "https://downloads.tatoeba.org/exports/per_language/cmn/cmn-eng_links.tsv.bz2",
+      "name": "cmn-eng_links.tsv.bz2",
+      "bytes": 481392,
+      "lastModified": "Sat, 03 Oct 2026 06:41:07 GMT",
+      "sha256": "e61c5326a20334f1bba80dad4b18dd54c6c8d699c0fe99c1fa1cbe2e4ee6f8e3"
+    },
+    {
+      "url": "https://downloads.tatoeba.org/exports/per_language/cmn/cmn-rus_links.tsv.bz2",
+      "name": "cmn-rus_links.tsv.bz2",
+      "bytes": 75182,
+      "lastModified": "Sat, 03 Oct 2026 06:41:07 GMT",
+      "sha256": "0705980ca758682fbd4d9731fa88b57e92275388a5d46a183a3293d69ceccb59"
+    },
+    {
+      "url": "https://downloads.tatoeba.org/exports/per_language/eng/eng_sentences_detailed.tsv.bz2",
+      "name": "eng_sentences_detailed.tsv.bz2",
+      "bytes": 34920012,
+      "lastModified": "Sat, 03 Oct 2026 06:29:49 GMT",
+      "sha256": "d2c8fc271db70967cbf6e74069b34f394eccccca4a61fc84039e0f0549016ee8"
+    },
+    {
+      "url": "https://downloads.tatoeba.org/exports/per_language/eng/eng_sentences_CC0.tsv.bz2",
+      "name": "eng_sentences_CC0.tsv.bz2",
+      "bytes": 1288803,
+      "lastModified": "Sat, 03 Oct 2026 06:31:09 GMT",
+      "sha256": "a51307f6eccb2ca558a4bcc66610c7aa818ddabdf5cfff40c3bb72cd2a1501c9"
+    },
+    {
+      "url": "https://downloads.tatoeba.org/exports/per_language/rus/rus_sentences_detailed.tsv.bz2",
+      "name": "rus_sentences_detailed.tsv.bz2",
+      "bytes": 23501935,
+      "lastModified": "Sat, 03 Oct 2026 06:29:49 GMT",
+      "sha256": "84affb0829f9d091ee52c192e45445f233a2733f39b93d7a10ed28524e36b22e"
+    },
+    {
+      "url": "https://downloads.tatoeba.org/exports/per_language/rus/rus_sentences_CC0.tsv.bz2",
+      "name": "rus_sentences_CC0.tsv.bz2",
+      "bytes": 514756,
+      "lastModified": "Sat, 03 Oct 2026 06:31:09 GMT",
+      "sha256": "918d970afa904738bd1ee795bbea8fa1fac86f367c5c9b12a72c71aa7fe542a7"
+    }
+  ]
+}

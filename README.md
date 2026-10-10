@@ -20,6 +20,7 @@ original work of River Lang except the conversion; the credit belongs to the aut
 | `jmdict-readings/` | JMdict — https://www.edrdg.org/jmdict/j_jmdict.html | Electronic Dictionary Research and Development Group | CC BY-SA 4.0 + EDRDG licence |
 | `strokes-zh/` | Make Me a Hanzi `graphics.txt` via hanzi-writer-data 2.0.1 — https://github.com/skishore/makemeahanzi | Shaunak Kishore; glyphs from Arphic PL KaitiM GB and Arphic PL UKai (c) 1999 Arphic Technology | Arphic Public License |
 | `decomposition-zh/` | Make Me a Hanzi `dictionary.txt` | Shaunak Kishore (from Unihan and CJKlib) | LGPL-3.0-or-later |
+| `examples/` | Tatoeba — https://tatoeba.org | sentence authors, named for every sentence | CC BY 2.0 FR |
 | `unihan/` | Unihan Database, Unicode 18.0 — https://www.unicode.org/charts/unihan.html | Unicode, Inc. | Unicode License v3 |
 
 Full license texts are in `LICENSES/`. Every folder has `NOTICE.md` (source, version,
@@ -35,6 +36,7 @@ Files are SQLite databases, gzip-compressed (`.db.gz`).
 - Stroke order data: Make Me a Hanzi (Shaunak Kishore), derived from Arphic PL KaitiM GB and
   Arphic PL UKai fonts (c) 1999 Arphic Technology Co., Ltd. — Arphic Public License.
 - Character decomposition: Make Me a Hanzi, LGPL-3.0-or-later.
+- Example sentences: Tatoeba (https://tatoeba.org), CC BY 2.0 FR — the author is shown with every sentence.
 - Unihan Database (c) Unicode, Inc., Unicode License v3.
 
 ## Not legal advice

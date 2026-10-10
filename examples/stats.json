@@ -1,0 +1,20 @@
+{
+  "exportDate": "Sat, 03 Oct 2026 06:29:49 GMT",
+  "cmnAll": 89177,
+  "cmnNoAuthor": 0,
+  "cmnTooLong": 284,
+  "sentences": 66219,
+  "withEn": 63649,
+  "withRu": 10030,
+  "ruOnly": 2570,
+  "hant": 29414,
+  "headwords": 110610,
+  "words": 28761,
+  "indexLinks": 114025,
+  "sentencesInPack": 66219,
+  "authors": 2743,
+  "dbBytes": 8785920,
+  "dbSha256": "c3fcfc04639b4b16cde14a98c9ad5a713fb8fb11d08abf167e69d6ed07f0a350",
+  "gzBytes": 4438927,
+  "gzSha256": "149812ec45d832a2dccd7e385e67a2e61005306efb5da215a9642ec147dc3b70"
+}
